@@ -12,7 +12,6 @@ Current additons added:
     <li>NPC will chase player if he enters threat zone</li>
     </ul>
   </li>
-  <li>Next - Attacking Animation</li>
 </ul>
-
+Next - Attacking Animation
 
